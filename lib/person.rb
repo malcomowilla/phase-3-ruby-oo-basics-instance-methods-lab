@@ -1,9 +1,31 @@
+
+
 class Person
     def talk
-        puts "Hello World!"
-
+        "Hello World!"
     end
     def walk
-        puts "The Person is walking"
+        "The Person is walking"
     end
 end
+
+malcom = Person.new
+malcom.talk
+malcom.walk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
